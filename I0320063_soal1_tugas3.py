@@ -12,6 +12,8 @@ print('Nama Teman Setelah Diubah:', Nama_Teman)
 Nama_Teman.append('Ilham')
 Nama_Teman.append('Rian')
 print('Nama Teman setelah ditambah:', Nama_Teman)
+for i in Nama_Teman:
+    print(i)
 print('Panjang List:', len(Nama_Teman))
 
 
